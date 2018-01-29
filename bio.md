@@ -1,4 +1,4 @@
-# what does PERSPECTIVE mean anyway!
+# PERSPECTIVE 
 
 ![Image of How Many](https://github.com/msu-csc131/lab00-Rus604/blob/master/threeORfour.jpg)
 
